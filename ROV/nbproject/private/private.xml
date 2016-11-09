@@ -3,17 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/vegar/Documents/NetBeansProjects/ROV/src/JSSCSerialCom.java</file>
-            <file>file:/C:/Users/vegar/Documents/NetBeansProjects/ROV/src/ROV.java</file>
-            <file>file:/C:/Users/vegar/Documents/NetBeansProjects/ROV/src/UDPServerRead.java</file>
-            <file>file:/C:/Users/vegar/Documents/NetBeansProjects/ROV/src/SerialReader.java</file>
-            <file>file:/C:/Users/vegar/Documents/NetBeansProjects/ROV/src/UDPServerSend.java</file>
-            <file>file:/C:/Users/vegar/Documents/NetBeansProjects/ROV/src/SerialCom.java</file>
-            <file>file:/C:/Users/vegar/Documents/NetBeansProjects/ROV/src/JSSCSerialSend.java</file>
-            <file>file:/C:/Users/vegar/Documents/NetBeansProjects/ROV/src/SerialWriter.java</file>
-            <file>file:/C:/Users/vegar/Documents/NetBeansProjects/ROV/src/JSSCSerialRead.java</file>
-            <file>file:/C:/Users/vegar/Documents/NetBeansProjects/ROV/src/DataHandler.java</file>
-            <file>file:/C:/Users/vegar/Documents/NetBeansProjects/ROV/src/Video.java</file>
+            <file>file:/C:/Users/vegar/Documents/GitHub/MekaROV/ROV/src/ROV.java</file>
+            <file>file:/C:/Users/vegar/Documents/GitHub/MekaROV/ROV/src/SerialRead.java</file>
+            <file>file:/C:/Users/vegar/Documents/GitHub/MekaROV/ROV/src/DataHandler.java</file>
+            <file>file:/C:/Users/vegar/Documents/GitHub/MekaROV/ROV/src/SerialCom.java</file>
+            <file>file:/C:/Users/vegar/Documents/GitHub/MekaROV/ROV/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/vegar/Documents/GitHub/MekaROV/ROV/src/UDPServerRead.java</file>
         </group>
     </open-files>
 </project-private>
